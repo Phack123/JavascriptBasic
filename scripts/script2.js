@@ -1,5 +1,8 @@
 let a = 15;
-let b = 2;
+let b = 14;
+let c = 13;
+
 const x = 5;// biến cố định, không thể gán
-x = 6
-console.log(`F*cking Deadline`,` x= ` x);
+
+console.log(`F*cking Deadline`,` a= `,a,` b= `,b,` c= `,c);
+
